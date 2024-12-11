@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+pyquery
+sqlite3
+scikit-learn
+beautifulsoup4
